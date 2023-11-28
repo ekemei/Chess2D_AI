@@ -1,0 +1,25 @@
+fileFormatVersion: 2
+guid: ee15ff5c32108b04ba03857a5934f471
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - controller: {instanceID: 0}
+  - moveTile: {instanceID: 0}
+  - b_pawn: {fileID: 21300000, guid: b63d94c2c50099247b985f43485b19bb, type: 3}
+  - b_rook: {instanceID: 0}
+  - b_knight: {instanceID: 0}
+  - b_bishop: {instanceID: 0}
+  - b_queen: {instanceID: 0}
+  - b_king: {instanceID: 0}
+  - w_pawn: {instanceID: 0}
+  - w_rook: {instanceID: 0}
+  - w_knight: {instanceID: 0}
+  - w_bishop: {instanceID: 0}
+  - w_queen: {instanceID: 0}
+  - w_king: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
